@@ -38,5 +38,5 @@
 |----|----|----|----|----|----|----|----|----|
 | OK | OK | OK | OK | OK | OK | OK | OK | OK |
 
-## Final grade
+## Final Grade
 ![alt text](https://image.prntscr.com/image/NCikhVS7SeWMB6Ue2hgYjA.png)
